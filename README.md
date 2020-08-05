@@ -15,6 +15,8 @@
   <br>
   And eagerly waiting for the second season of <b>Euphoria</b> 🌈
   <hr size="5"></hr>
+  </p>
+  <p align="center">
   <a href="https://github.com/ravibalg-aj" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravibalg-aj&count_private=true&hide_border=true&show_icons=false&theme=buefy" 
        alt="ravibalg's github stats"/></a>        
