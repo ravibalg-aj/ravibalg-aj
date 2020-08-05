@@ -14,6 +14,8 @@
   <br>
   <br>
   And eagerly waiting for the second season of <b>Euphoria</b> 🌈
+  <br>
+  <br>
   <hr size="5"></hr>
   </p>
   <p align="center">
