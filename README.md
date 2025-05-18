@@ -4,16 +4,16 @@
   Hey y'all, Im <b color="#ff0000">Balg 🍀</b> 
   <br>
   <br>
-  Currently working as a <b>Software Engineer @ Microfocus</b> 👨🏻‍💻
+  Currently working as a <b>Software Engineer @ Opentext</b> 👨🏻‍💻
   <br>
   <br>
   Love to contribute <b>Open Source Projects</b> ❤️ but havent really tasted it yet 😬
   <br>
   <br>
-  Fascinated and interested to learn about <b>Golang</b> ⌨️
+  Fascinated and interested to learn about <b>AI</b> ⌨️
   <br>
   <br>
-  And eagerly waiting for the second season of <b>Euphoria</b> 🌈
+  And eagerly waiting for the third season of <b>Euphoria</b> 🌈
   <br>
   <br>
   <hr size="5"></hr>
